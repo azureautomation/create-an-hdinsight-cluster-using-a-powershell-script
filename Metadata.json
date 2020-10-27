@@ -1,0 +1,20 @@
+{
+    "Author": "Ousama EL HOR",
+    "ContentSize": 1741,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-an-hdinsight-cluster-using-a-powershell-script/master/Provision_Cluster.ps1",
+    "DownloadCount": 1061,
+    "Id": "Create-an-HDInsight-cluster-ef8beaf3",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 528,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-9-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "Windows Shell Script",
+    "Summary": "Use this Powershell script to create an HDInsight cluster in Microsoft Azure.This script allow you to create your cluster by completing\u00a0the following procedures :Create an Azure resource group Create an Azure storage account Create an Azure blob container Create an HDInsight",
+    "Title": "Create an HDInsight cluster using a Powershell script",
+    "UpdatedDate": "2017-9-30T00:00:00",
+    "Url": "https://github.com/azureautomation/create-an-hdinsight-cluster-using-a-powershell-script",
+    "UserTags": "Powershell Script, HDInsight, blob storage"
+}
